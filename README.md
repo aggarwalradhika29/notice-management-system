@@ -97,7 +97,61 @@ TOTAL FILES:
   a.	Stores all notices
 
 ** An ArrayList of type notice is used throughout the system and the same is stored in a .txt file by converting all of its content into String.
+ ![image](https://user-images.githubusercontent.com/91591831/211332366-e87c023a-74d4-4c37-bca9-22e954edf017.png)
+
+
+Completing the DoDs(Source code snippets):
+
+1.	Login:
+ 	![image](https://user-images.githubusercontent.com/91591831/211332477-7530c44a-d5c0-4872-ac8a-338e9c425332.png)
+
+2.	Operation Menu:
+ 	![image](https://user-images.githubusercontent.com/91591831/211332511-96d06742-15f5-4840-8e38-363cc89dcb4f.png)
+
+3.	Exception for blank content:
+ 	![image](https://user-images.githubusercontent.com/91591831/211332627-407133ff-15cf-4369-94f0-d82bd275910f.png) 
+
+4.	File Handling:
+  	![image](https://user-images.githubusercontent.com/91591831/211332667-e0fb13a0-4b26-4c2f-86c7-5e556bffa05c.png)
+	![image](https://user-images.githubusercontent.com/91591831/211332692-44959dc5-f2ca-4f4f-9b01-559da3b8afed.png)
+	
+--------------------------------------------------------------------------------------------------------------------------------------
+## OUTPUT (Screenshots)
+1.	The LOG-IN window
+ ![image](https://user-images.githubusercontent.com/91591831/211333513-f286f0db-6dad-4b91-9787-0deb15aa9f66.png)
+
+2.	Admin Menu
+	![image](https://user-images.githubusercontent.com/91591831/211333472-3a026d73-e67c-4396-88c3-adddcdaa1884.png)
+
+	a.	Add function
+	![image](https://user-images.githubusercontent.com/91591831/211333439-ac248756-52a2-4451-a472-27b0ea025b51.png)
+
+	b.	Display function
+	![image](https://user-images.githubusercontent.com/91591831/211333417-9a6c5262-aa06-46c0-bc88-51f05af775d2.png)
+
+	c.	Update function
+	![image](https://user-images.githubusercontent.com/91591831/211333398-6abed4ff-2f6c-44ab-ac48-5b16c2ec0c15.png)
+
+	d.	Delete function
+ 	![image](https://user-images.githubusercontent.com/91591831/211333354-33522a9a-d503-4b19-b1ae-d5da5c78e642.png)
+
+
+UPDATED LIST:
+![image](https://user-images.githubusercontent.com/91591831/211333317-af9015ee-0a1f-4a71-9a8d-42ffcc115def.png)
+
  
+3.	Student Menu
+ 	![image](https://user-images.githubusercontent.com/91591831/211333271-0a114296-d52d-43c7-a039-db5f6d0df99c.png)
+
+	a.	Display all
+ 	![image](https://user-images.githubusercontent.com/91591831/211333211-df433c1e-2be6-4443-9419-0cdb6ff20083.png)
+
+
+4.	Failed log-in
+ 	![image](https://user-images.githubusercontent.com/91591831/211333166-59eba5bc-a7eb-4c49-b3ee-835bbe26c123.png)
+
+	
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ## CONCLUSION
